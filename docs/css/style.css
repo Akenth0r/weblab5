@@ -1,0 +1,25 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+input {
+	display: block;
+	margin-bottom: 1em;
+}
+
+
+#inp {
+	border: 2px double #0000ff;
+	width: 14em;
+	padding: 1em;
+}
+
+#html_code {
+	height: 8em;
+}
+
+textarea {
+	resize: none;
+}
+
